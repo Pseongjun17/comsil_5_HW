@@ -1,1 +1,1 @@
-int foo2()
+isdfnt foo2()
