@@ -1,1 +1,2 @@
-int foo3();
+isldkfjldksfj:wq
+:nt foo3();
